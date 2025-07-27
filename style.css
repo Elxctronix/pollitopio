@@ -1,0 +1,1494 @@
+body {
+    background-color: #f8f405;
+}
+
+.pp {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+
+padding: 5px;
+    color: #000000;
+    font-size: 2.5em;
+    text-align: center;
+}
+h3 {
+    color: #000000;
+    font-size: 1.5em;
+    text-align: center;
+}
+p {
+    color: #000000;
+    font-size: 1.2em;
+    text-align: center;
+}
+nav {
+    background-color: #f8f405;
+    padding: 10px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav li {
+    display: inline;
+    margin: 0 15px;
+}
+nav a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
+footer {
+    background-color: #f8f405;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+footer p {
+    color: #000000;
+    font-size: 1em;
+}
+h1, h3, p {
+    margin: 20px 0;
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+}
+@font-face {
+    font-family: "Luckiest Guy";
+    src: url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+}
+@font-face {
+    font-family: "Luckiest Guy";
+    src: url("https://fonts.gstatic.com/s/luckiestguy/v17/1Ptug8zYS_SKggPNw4a5b0c9d3k.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+
+
+.audio-player {
+    display: block;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f8f405;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}       
+@media (max-width: 600px) {
+    .audio-player {
+        width: 100%;
+        margin: 10px auto;
+    }
+}
+    .audio-player::-webkit-media-controls-panel {
+        background-color: #f8f405;
+        color: #000000;
+    }
+    .audio-player::-webkit-media-controls-play-button {
+        background-color: #f8f405;
+        color: #000000;
+    }
+    .audio-player::-webkit-media-controls-volume-slider {
+        background-color: #f8f405;
+        color: #000000;
+    }
+
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:active {
+    color: #00ff00;
+}
+
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+
+nav a:active {
+    color: #00ff00;
+}
+
+
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+nav a:hover {
+    color: #ff0000;
+}
+nav a:active {
+    color: #00ff00;
+}
+nav a:visited {
+    color: #0000ff;
+}
+nav a:focus {
+    outline: 2px solid #000000;
+    outline-offset: 4px;
+}
+nav a:focus-visible {
+    outline: 2px solid #ff0000;
+    outline-offset: 4px;
+}
+nav a:focus:not(:focus-visible) {
+    outline: none;
+}
+
+.audio-player {
+    display: block;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f8f405;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+@media (max-width: 600px) {
+    .audio-player {
+        width: 100%;
+        margin: 10px auto;
+    }
+}
+    .audio-player::-webkit-media-controls-panel {
+        background-color: #f8f405;
+        color: #000000;
+    }
+    .audio-player::-webkit-media-controls-play-button {
+        background-color: #f8f405;
+        color: #000000;
+    }
+    .audio-player::-webkit-media-controls-volume-slider {
+        background-color: #f8f405;
+        color: #000000;
+    }
+
+footer {
+    background-color: #f8f405;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+footer p {
+    color: #000000;
+    font-size: 1em;
+}
+
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+footer {
+    background-color: #f8f405;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    h1, h3, p {
+        margin: 20px 0;
+    }
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
+    p {
+        font-size: 1em;
+    }
+}
+@media (max-width: 600px) {
+    body {
+        background-color: #f8f405;
+    }
+    .pp {
+        font-family: "Luckiest Guy", cursive;
+        font-weight: 400;
+        font-style: normal;
+    }
+    h1, h3, p {
+        text-align: center;
+    }
+}
+@media (max-width: 600px) {
+    nav {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+    }
+    nav ul {
+        list-style: none;
+        padding: 0;
+    }
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+    nav a {
+        text-decoration: none;
+        color: #000000;
+        font-weight: bold;
+    }
+}
+@media (max-width: 600px) {
+    footer {
+        background-color: #f8f405;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
+    footer p {
+        color: #000000;
+        font-size: 1em;
+    }
+    .social-links {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .social-links a {
+        margin: 0 10px;
+        text-decoration: none;
+        color: #000000;
+    }
+    .social-links a:hover {
+        color: #ff0000;
+    }
+    .social-links a:active {
+        color: #00ff00;
+    }
+    .social-links a:visited {
+        color: #0000ff;
+    }
+    .social-links a:focus {
+        outline: 2px solid #000000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus-visible {
+        outline: 2px solid #ff0000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus:not(:focus-visible) {
+        outline: none;
+    }
+    .social-links a:hover {
+        color: #ff0000;
+    }
+    .social-links a:active {
+        color: #00ff00;
+    }
+    .social-links a:visited {
+        color: #0000ff;
+    }
+    .social-links a:focus {
+        outline: 2px solid #000000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus-visible {
+        outline: 2px solid #ff0000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus:not(:focus-visible) {
+        outline: none;
+    }
+    .social-links a:hover {
+        color: #ff0000;
+    }
+    .social-links a:active {
+        color: #00ff00;
+    }
+    .social-links a:visited {
+        color: #0000ff;
+    } 
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+    li {
+        margin: 5px 0;
+    }
+    a {
+        text-decoration: none;
+        color: #000000;
+    }
+    a:hover {
+        color: #ff0000;
+    }
+    a:active {
+        color: #00ff00;
+    }
+    a:visited {
+        color: #0000ff;
+    }
+    a:focus {
+        outline: 2px solid #000000;
+        outline-offset: 4px;
+    }
+}
+    .social-links a:focus-visible {
+        outline: 2px solid #ff0000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus:not(:focus-visible) {
+        outline: none;
+    }
+    .social-links a:hover {
+        color: #ff0000;
+    }
+    .social-links a:active {
+        color: #00ff00;
+    }
+    .social-links a:visited {
+        color: #0000ff;
+    }
+    .social-links a:focus {
+        outline: 2px solid #000000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus-visible {
+        outline: 2px solid #ff0000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus:not(:focus-visible) {
+        outline: none;
+    }
+    .social-links a:hover {
+        color: #ff0000;
+    }
+    .social-links a:active {
+        color: #00ff00;
+    }
+    .social-links a:visited {
+        color: #0000ff;
+    }
+    .social-links a:focus {
+        outline: 2px solid #000000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus-visible {
+        outline: 2px solid #ff0000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus:not(:focus-visible) {
+        outline: none;
+    }
+    .social-links a:hover {
+        color: #ff0000;
+    }
+    .social-links a:active {
+        color: #00ff00;
+    }
+    .social-links a:visited {
+        color: #0000ff;
+    }
+    .social-links a:focus {
+        outline: 2px solid #000000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus-visible {
+        outline: 2px solid #ff0000;
+        outline-offset: 4px;
+    }
+    .social-links a:focus:not(:focus-visible) {
+        outline: none;
+    }
+    .social-links a:hover {
+        color: #ff0000;
+    }
+    .social-links a:active {
+        color: #00ff00;
+    }
+    .social-links a:visited {
+        color: #0000ff;
+    }
